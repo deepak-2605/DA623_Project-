@@ -1,3 +1,5 @@
+## Please find the link attached if unable to render code on Github. You can also download the file.
+https://colab.research.google.com/drive/1Vkcbu4_SI_TXNhR4lN3-QvtePwuJyI-H?usp=sharing
 # Privacy-Preserving Face Matching using PCA (Eigenfaces)
 
 **Author**: Deepak Singh
